@@ -1,5 +1,5 @@
 
-"Hi! Welcome! My name is Marina Ruanna, and I'm learning to program! Currently learning Python and Django."
+"Hi! Welcome! My name is Marina Ruanna, and I'm learning to program! Currently learning Java and .NET."
 ##
 <div>
   <img align="left" alt="mari-cartoon" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/927534793892171798/927537897438052352/IMG_9557.png">
