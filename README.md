@@ -1,6 +1,8 @@
 
 ### Hi! My name is Marina Ruanna, welcome to my GitHub!
 
+Software Analysys and Development Student
+
 I'm learning to program! Currently learning Python, Django and Git"
           
 ##
