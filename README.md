@@ -3,7 +3,7 @@
 
 Software Analysys and Development Student
 
-I'm learning to program! Currently learning Python, Django and Git"
+I'm learning to program! Currently learning Python, Django and Git
           
 ##
 <div>
