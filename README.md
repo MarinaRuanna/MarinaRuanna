@@ -7,6 +7,9 @@
 <h4 align="left">I'm Software Analysys and Development Student/ Amateur illustrator</h4>
 
 ###
+<h4 align="left">Learning Go!</h4>
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
